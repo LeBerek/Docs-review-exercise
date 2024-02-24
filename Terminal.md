@@ -26,3 +26,5 @@ Poniżej znajduje się 10 największych portów kontenerowych na świecie w 2023
 8. Qingdao, China (20.6 million TEUs)
 9. Tianjin, China (19.2 million TEUs)
 10. Jebel Ali, United Arab Emirates (19.1 million TEUs)
+
+[Home](index.md)

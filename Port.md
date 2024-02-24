@@ -31,3 +31,5 @@ Poniżej znajduje się 10 największych portów kontenerowych na świecie:
 Termin "terminal" jest również szeroko stosowany do określenia lokalizacji śródlądowych, do których towary są transportowane z portu za pomocą transportu kolejowego i drogowego.
 
 Dobrym przykładem są śródlądowe składy kontenerowe, które są celnymi składami/terminalami, zwanymi również "suchymi portami", ponieważ niektóre z nich nadal znajdują się pod kontrolą głównych władz portowych lub portów i operatorów terminali.
+
+[Home](index.md)

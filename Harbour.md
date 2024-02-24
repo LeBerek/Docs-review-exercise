@@ -31,3 +31,5 @@ Source: portofrotterdam.com
 Niezależnie od tego, czy są naturalne, czy stworzone przez człowieka, porty są ważne dla handlu i na całym świecie są wykorzystywane do importu i eksportu różnego rodzaju ładunków, takich jak stal, żelazo, ropa naftowa, samochody, odzież itp. itd. Porty obsługują również statki wycieczkowe przewożące pasażerów z miejsca na miejsce.
 
 Niektóre porty mogą być również wykorzystywane przez statki szukające schronienia w złych warunkach pogodowych itp., a porty te mogą nie mieć żadnych udogodnień handlowych lub osobistych, a statek może po prostu szukać tam schronienia przed żywiołami.
+
+[Home](index.md)

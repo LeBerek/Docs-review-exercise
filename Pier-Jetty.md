@@ -12,3 +12,5 @@ Tak więc w pewnym sensie, jeśli chodzi o operacje komercyjne, może istnieć h
 - Każdy terminal może mieć miejsca do cumowania i/lub nabrzeże, na którym odbywa się cała działalność handlowa.
 
 Jednak po tym wszystkim, w wielu przypadkach te różne terminy są używane zamiennie w różnych krajach i istnieje jeszcze więcej terminów, takich jak nabrzeże, dok itp., które są używane w odniesieniu do miejsca do cumowania lub portu.
+
+[Home](index.md)

@@ -9,3 +9,5 @@ Miejsce cumowania to zasadniczo obszar, w którym statek jest zacumowany do pach
 Jeden terminal kontenerowy może mieć kilka miejsc do cumowania / nabrzeży, gdzie kilka statków może być obsługiwanych w tym samym czasie.
 
 Przykładem może być poniższe zdjęcie terminalu kontenerowego Brani w Singapurze, na którym widać 6 obsługiwanych kontenerowców. Każdy statek jest zacumowany przy innym nabrzeżu, a obszar bezpośrednio za dźwigami od strony lądu może być określany jako nabrzeże.
+
+[Home](index.md)
