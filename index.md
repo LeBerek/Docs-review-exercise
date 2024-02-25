@@ -23,3 +23,5 @@ Cóż, takie miejsce nazywa się:
 - [TERMINAL](Terminal.md)
 - [BERTH/QUAY](Berth-Quay.md)
 - [PIER/JETTY](Pier-Jetty.md)
+
+Punkt wyjścia tekst tłumaczony maszynowo DeepL ze strony https://www.shippingandfreightresource.com/harbour-port-terminal-berth-quay-pier-jetty/
