@@ -16,7 +16,7 @@ Wyobraźmy sobie następującą sytuację:
 
 Wyobraźmy sobie teraz, że istnieje miejsce, do którego statek może przypłynąć, zacumować (przywiązać), umożliwiając ludziom na statku zejście na ląd lub ludziom na lądzie wejście na pokład statku.
 
-Cóż, takie miejsce nazywa się:
+Tego typu miejsce nazywa się:
 
 - [HARBOUR](Harbour.md) :smile:
 - [PORT](Port.md)
@@ -24,4 +24,4 @@ Cóż, takie miejsce nazywa się:
 - [BERTH/QUAY](Berth-Quay.md)
 - [PIER/JETTY](Pier-Jetty.md)
 
-Punkt wyjścia tekst tłumaczony maszynowo DeepL ze strony https://www.shippingandfreightresource.com/harbour-port-terminal-berth-quay-pier-jetty/
+Punkt wyjścia, tj. tekst źródłowy tłumaczony maszynowo DeepL ze strony https://www.shippingandfreightresource.com/harbour-port-terminal-berth-quay-pier-jetty/

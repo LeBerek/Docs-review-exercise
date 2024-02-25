@@ -4,7 +4,7 @@ Molo/Jetty są dość podobne w swoim przeznaczeniu, którym jest zwykle wiązan
 
 Molo lub nabrzeże może również oznaczać chodnik wychodzący w morze/ocean, gdzie ludzie mogą spacerować, łowić ryby, jeść w restauracjach itp. Na molo lub nabrzeżu zwykle nie prowadzi się intensywnej działalności komercyjnej ani załadunku/rozładunku towarów.
 
-Tak więc w pewnym sensie, jeśli chodzi o operacje komercyjne, może istnieć hierarchia do tego.......
+Tak więc w pewnym sensie, jeśli chodzi o operacje komercyjne, może istnieć hierarchia do tego...
 
 - Kraj przybrzeżny może mieć wiele portów
 - Każdy port może mieć porty
